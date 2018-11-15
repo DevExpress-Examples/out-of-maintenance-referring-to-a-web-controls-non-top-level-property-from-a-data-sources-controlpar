@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/ReferringHiddenFieldPropertyFromControlParameter/Default.aspx) (VB: [Default.aspx](./VB/ReferringHiddenFieldPropertyFromControlParameter/Default.aspx))
+* [Default.aspx.cs](./CS/ReferringHiddenFieldPropertyFromControlParameter/Default.aspx.cs) (VB: [Default.aspx](./VB/ReferringHiddenFieldPropertyFromControlParameter/Default.aspx))
+<!-- default file list end -->
 # Referring to a web control's non-top-level property from a data source's ControlParameter – illustrated with the ASPxHiddenField
 
 

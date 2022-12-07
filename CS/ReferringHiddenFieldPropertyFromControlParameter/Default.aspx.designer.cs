@@ -35,7 +35,7 @@ namespace ReferringHiddenFieldPropertyFromControlParameter {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxSpinEdit spnMaxID;
+        protected global::DevExpress.Web.ASPxSpinEdit spnMaxID;
         
         /// <summary>
         /// gvGridView control.
@@ -44,7 +44,7 @@ namespace ReferringHiddenFieldPropertyFromControlParameter {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView.ASPxGridView gvGridView;
+        protected global::DevExpress.Web.ASPxGridView gvGridView;
         
         /// <summary>
         /// hfData control.
@@ -53,7 +53,7 @@ namespace ReferringHiddenFieldPropertyFromControlParameter {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxHiddenField.ASPxHiddenField hfData;
+        protected global::DevExpress.Web.ASPxHiddenField hfData;
         
         /// <summary>
         /// dsDataSource control.

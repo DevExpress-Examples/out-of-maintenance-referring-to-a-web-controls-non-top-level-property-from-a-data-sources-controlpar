@@ -1,6 +1,6 @@
 ﻿Imports System
 Imports System.Web.UI
-Imports DevExpress.Web.ASPxGridView
+Imports DevExpress.Web
 
 Namespace ReferringHiddenFieldPropertyFromControlParameter
     Partial Public Class _Default

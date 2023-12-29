@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/134579028/13.1.4%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E2035)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -10,9 +5,6 @@
 * [Default.aspx.cs](./CS/ReferringHiddenFieldPropertyFromControlParameter/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ReferringHiddenFieldPropertyFromControlParameter/Default.aspx.vb))
 <!-- default file list end -->
 # Referring to a web control's non-top-level property from a data source's ControlParameter – illustrated with the ASPxHiddenField
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2035/)**
-<!-- run online end -->
 
 
 <p>There may be a scenario where a value of a data source parameter should be retrieved from the ASPxHiddenField (or any web control in general). For this, the .NET Framework provides a <a href="http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.controlparameter.aspx">ControlParameter class</a> that can refer to a control's property via its ControlID and PropertyName properties:</p>
